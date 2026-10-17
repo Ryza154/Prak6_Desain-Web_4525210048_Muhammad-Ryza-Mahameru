@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 220" width="240" height="220" role="img" aria-label="Ilustrasi bola lampu dengan chip sebagai simbol inovasi">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff0f5"/>
+      <stop offset="1" stop-color="#ffd5e2"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="220" fill="url(#g)"/>
+  <g stroke="#ed2d68" stroke-width="3" fill="none" stroke-linecap="round" opacity=".8">
+    <path d="M60 110 H20 V70 H8"/>
+    <path d="M180 110 H220 V70 H232"/>
+    <path d="M70 150 H34 V186"/>
+    <path d="M170 150 H206 V186"/>
+  </g>
+  <g fill="#ed2d68">
+    <circle cx="8" cy="70" r="5"/>
+    <circle cx="232" cy="70" r="5"/>
+    <circle cx="34" cy="186" r="5"/>
+    <circle cx="206" cy="186" r="5"/>
+  </g>
+  <circle cx="120" cy="100" r="62" fill="#f5b52e" opacity=".3"/>
+  <circle cx="120" cy="100" r="48" fill="#f5b52e"/>
+  <path d="M96 132 h48 v18 q0 8 -8 8 h-32 q-8 0 -8 -8z" fill="#d8dce2"/>
+  <rect x="100" y="158" width="40" height="9" rx="4.5" fill="#9aa0aa"/>
+  <rect x="124" y="82" width="0" height="0"/>
+  <g>
+    <rect x="100" y="80" width="40" height="40" rx="6" fill="#252333"/>
+    <rect x="108" y="88" width="24" height="24" rx="3" fill="#ed2d68"/>
+    <g stroke="#252333" stroke-width="3" stroke-linecap="round">
+      <path d="M108 76 v4 M120 76 v4 M132 76 v4"/>
+      <path d="M108 120 v4 M120 120 v4 M132 120 v4"/>
+      <path d="M96 88 h4 M96 100 h4 M96 112 h4"/>
+      <path d="M140 88 h4 M140 100 h4 M140 112 h4"/>
+    </g>
+  </g>
+</svg>

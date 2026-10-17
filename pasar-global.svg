@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400" role="img" aria-label="Ilustrasi grafik pasar global menguat">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff9fb"/>
+      <stop offset="1" stop-color="#ffd9e5"/>
+    </linearGradient>
+    <filter id="sh" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#9f1749" flood-opacity=".2"/>
+    </filter>
+  </defs>
+  <rect width="640" height="400" fill="url(#bg)"/>
+  <circle cx="145" cy="215" r="105" fill="#fff" opacity=".6"/>
+  <circle cx="145" cy="215" r="92" fill="#ed2d68"/>
+  <g fill="#f7b4c8" opacity=".9">
+    <path d="M95 175 q18 -22 44 -12 q10 18 -6 30 q-20 8 -38 -18z"/>
+    <path d="M150 205 q26 -14 44 6 q6 26 -12 42 q-14 10 -22 -8 q-8 -20 -10 -40z"/>
+    <path d="M100 250 q16 -6 26 8 q-4 18 -20 18 q-10 -12 -6 -26z"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-width="1.5" opacity=".55">
+    <ellipse cx="145" cy="215" rx="40" ry="92"/>
+    <ellipse cx="145" cy="215" rx="72" ry="92"/>
+    <line x1="145" y1="123" x2="145" y2="307"/>
+    <line x1="53" y1="215" x2="237" y2="215"/>
+    <path d="M62 170 H228 M62 260 H228"/>
+  </g>
+  <g filter="url(#sh)">
+    <rect x="268" y="48" width="330" height="296" rx="22" fill="#fff"/>
+  </g>
+  <text x="290" y="82" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#252333">Indeks Global</text>
+  <rect x="504" y="64" width="72" height="26" rx="13" fill="#e2f5ee"/>
+  <text x="540" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="800" fill="#329777">+2,4%</text>
+  <g stroke="#eee7eb" stroke-width="1.5">
+    <line x1="288" y1="130" x2="580" y2="130"/>
+    <line x1="288" y1="180" x2="580" y2="180"/>
+    <line x1="288" y1="230" x2="580" y2="230"/>
+    <line x1="288" y1="280" x2="580" y2="280"/>
+  </g>
+  <line x1="308" y1="237" x2="308" y2="302" stroke="#ed2d68" stroke-width="2.5"/>
+  <rect x="299" y="254" width="18" height="38" rx="3" fill="#ed2d68"/>
+  <line x1="343" y1="227" x2="343" y2="288" stroke="#329777" stroke-width="2.5"/>
+  <rect x="334" y="241" width="18" height="37" rx="3" fill="#329777"/>
+  <line x1="378" y1="237" x2="378" y2="292" stroke="#ed2d68" stroke-width="2.5"/>
+  <rect x="369" y="251" width="18" height="34" rx="3" fill="#ed2d68"/>
+  <line x1="413" y1="200" x2="413" y2="275" stroke="#329777" stroke-width="2.5"/>
+  <rect x="404" y="210" width="18" height="51" rx="3" fill="#329777"/>
+  <line x1="448" y1="183" x2="448" y2="244" stroke="#329777" stroke-width="2.5"/>
+  <rect x="439" y="196" width="18" height="38" rx="3" fill="#329777"/>
+  <line x1="483" y1="159" x2="483" y2="227" stroke="#329777" stroke-width="2.5"/>
+  <rect x="474" y="173" width="18" height="44" rx="3" fill="#329777"/>
+  <line x1="518" y1="132" x2="518" y2="200" stroke="#329777" stroke-width="2.5"/>
+  <rect x="509" y="145" width="18" height="45" rx="3" fill="#329777"/>
+  <line x1="553" y1="105" x2="553" y2="176" stroke="#329777" stroke-width="2.5"/>
+  <rect x="544" y="118" width="18" height="48" rx="3" fill="#329777"/>
+  <polyline points="308,271 343,260 378,271 413,233 448,213 483,182 518,155 553,128" fill="none" stroke="#252333" stroke-width="3" stroke-dasharray="2 7" stroke-linecap="round"/>
+  <polygon points="568,116 556,132 546,120" fill="#252333"/>
+</svg>

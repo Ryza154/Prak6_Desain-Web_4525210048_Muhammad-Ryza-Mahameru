@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400" role="img" aria-label="Ilustrasi turbin angin dan panel surya di perbukitan">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cdeeff"/>
+      <stop offset="1" stop-color="#fff2d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#sky)"/>
+  <circle cx="520" cy="95" r="70" fill="#f5b52e" opacity=".22"/>
+  <circle cx="520" cy="95" r="42" fill="#f5b52e"/>
+  <g fill="#fff" opacity=".85">
+    <ellipse cx="120" cy="80" rx="52" ry="14"/>
+    <ellipse cx="150" cy="70" rx="34" ry="13"/>
+    <ellipse cx="330" cy="130" rx="46" ry="12"/>
+    <ellipse cx="352" cy="121" rx="28" ry="11"/>
+  </g>
+  <path d="M0 270 L110 175 L190 225 L320 110 L460 240 L555 185 L640 255 V400 H0Z" fill="#8cc4b0"/>
+  <path d="M0 305 C90 250 170 262 250 290 C340 320 430 255 520 270 C570 280 610 295 640 285 V400 H0Z" fill="#4fa98b"/>
+  <path d="M0 340 C100 300 200 330 300 335 C420 340 520 305 640 330 V400 H0Z" fill="#329777"/>
+  <polygon points="167,292 173,292 171.5,182 168.5,182" fill="#fff"/>
+  <g transform="translate(170 182) rotate(15)">
+    <path transform="rotate(0)" d="M0 0 L-4 -10 L-2.5 -61 L0 -68 L2.5 -61 L4 -10Z" fill="#fff"/>
+    <path transform="rotate(120)" d="M0 0 L-4 -10 L-2.5 -61 L0 -68 L2.5 -61 L4 -10Z" fill="#fff"/>
+    <path transform="rotate(240)" d="M0 0 L-4 -10 L-2.5 -61 L0 -68 L2.5 -61 L4 -10Z" fill="#fff"/>
+    <circle r="4.5" fill="#e6e6ea"/>
+  </g>
+  <polygon points="252,300 258,300 256.5,215 253.5,215" fill="#fff"/>
+  <g transform="translate(255 215) rotate(60)">
+    <path transform="rotate(0)" d="M0 0 L-4 -10 L-2.5 -47 L0 -53 L2.5 -47 L4 -10Z" fill="#fff"/>
+    <path transform="rotate(120)" d="M0 0 L-4 -10 L-2.5 -47 L0 -53 L2.5 -47 L4 -10Z" fill="#fff"/>
+    <path transform="rotate(240)" d="M0 0 L-4 -10 L-2.5 -47 L0 -53 L2.5 -47 L4 -10Z" fill="#fff"/>
+    <circle r="4.5" fill="#e6e6ea"/>
+  </g>
+  <polygon points="427,285 433,285 431.5,185 428.5,185" fill="#fff"/>
+  <g transform="translate(430 185) rotate(35)">
+    <path transform="rotate(0)" d="M0 0 L-4 -10 L-2.5 -55 L0 -62 L2.5 -55 L4 -10Z" fill="#fff"/>
+    <path transform="rotate(120)" d="M0 0 L-4 -10 L-2.5 -55 L0 -62 L2.5 -55 L4 -10Z" fill="#fff"/>
+    <path transform="rotate(240)" d="M0 0 L-4 -10 L-2.5 -55 L0 -62 L2.5 -55 L4 -10Z" fill="#fff"/>
+    <circle r="4.5" fill="#e6e6ea"/>
+  </g>
+  <polygon points="52,306 212,306 230,392 30,392" fill="#24407a" stroke="#fff" stroke-width="3"/>
+  <line x1="92.0" y1="306" x2="80.0" y2="392" stroke="#8fb0e8" stroke-width="1.5"/>
+  <line x1="132.0" y1="306" x2="130.0" y2="392" stroke="#8fb0e8" stroke-width="1.5"/>
+  <line x1="172.0" y1="306" x2="180.0" y2="392" stroke="#8fb0e8" stroke-width="1.5"/>
+  <line x1="46.6" y1="327" x2="216.4" y2="327" stroke="#8fb0e8" stroke-width="1.5"/>
+  <line x1="41.0" y1="349" x2="221.0" y2="349" stroke="#8fb0e8" stroke-width="1.5"/>
+  <line x1="35.6" y1="370" x2="225.4" y2="370" stroke="#8fb0e8" stroke-width="1.5"/>
+  <polygon points="62,310 112,310 92,346 46,346" fill="#fff" opacity=".12"/>
+  <polygon points="257,306 417,306 435,392 235,392" fill="#24407a" stroke="#fff" stroke-width="3"/>
+  <line x1="297.0" y1="306" x2="285.0" y2="392" stroke="#8fb0e8" stroke-width="1.5"/>
+  <line x1="337.0" y1="306" x2="335.0" y2="392" stroke="#8fb0e8" stroke-width="1.5"/>
+  <line x1="377.0" y1="306" x2="385.0" y2="392" stroke="#8fb0e8" stroke-width="1.5"/>
+  <line x1="251.6" y1="327" x2="421.4" y2="327" stroke="#8fb0e8" stroke-width="1.5"/>
+  <line x1="246.0" y1="349" x2="426.0" y2="349" stroke="#8fb0e8" stroke-width="1.5"/>
+  <line x1="240.6" y1="370" x2="430.4" y2="370" stroke="#8fb0e8" stroke-width="1.5"/>
+  <polygon points="267,310 317,310 297,346 251,346" fill="#fff" opacity=".12"/>
+  <polygon points="462,306 622,306 640,392 440,392" fill="#24407a" stroke="#fff" stroke-width="3"/>
+  <line x1="502.0" y1="306" x2="490.0" y2="392" stroke="#8fb0e8" stroke-width="1.5"/>
+  <line x1="542.0" y1="306" x2="540.0" y2="392" stroke="#8fb0e8" stroke-width="1.5"/>
+  <line x1="582.0" y1="306" x2="590.0" y2="392" stroke="#8fb0e8" stroke-width="1.5"/>
+  <line x1="456.6" y1="327" x2="626.4" y2="327" stroke="#8fb0e8" stroke-width="1.5"/>
+  <line x1="451.0" y1="349" x2="631.0" y2="349" stroke="#8fb0e8" stroke-width="1.5"/>
+  <line x1="445.6" y1="370" x2="635.4" y2="370" stroke="#8fb0e8" stroke-width="1.5"/>
+  <polygon points="472,310 522,310 502,346 456,346" fill="#fff" opacity=".12"/>
+</svg>
