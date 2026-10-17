@@ -1,0 +1,25 @@
+LAPORAN PROYEK WIREFRAME PORTAL BERITA
+
+Proyek ini membuat portal berita bernama NewsHub agar pembaca bisa menemukan
+berita terbaru dengan cepat tanpa tampilan yang ramai. Halaman dirancang untuk
+desktop dan mobile.
+
+Di desktop, berita utama dan berita terbaru berada di kolom kiri, sedangkan
+berita populer dan newsletter ada di sidebar kanan. Di mobile, semua konten
+disusun ke bawah dan ditambah navigasi di bagian bawah layar agar mudah
+dijangkau satu tangan.
+
+Latar putih dipakai agar teks nyaman dibaca. Warna merah muda dipakai untuk
+kategori, tombol, dan informasi penting. Judul dibuat lebih besar dari
+ringkasan, dan tiap berita berada dalam kartu dengan jarak yang cukup. Setiap
+berita punya gambar ilustrasi SVG sendiri sesuai judulnya.
+
+Pembagian tugas: anggota 1 menyusun HTML dan isi berita, anggota 2 membuat CSS
+dan tampilan responsif, anggota 3 menguji tampilan dan mengambil screenshot,
+anggota 4 menyusun dokumentasi dan laporan. Jika anggota hanya tiga orang,
+dokumentasi digabung dengan pengujian.
+
+Hasil akhir berupa index.html, style.css, dan folder images. Pencarian dan
+newsletter masih berupa tampilan saja. Pengembangan berikutnya bisa berupa
+berita dari sumber nyata, halaman detail artikel, kategori yang berfungsi, dan
+fitur simpan artikel.
